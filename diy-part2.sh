@@ -14,4 +14,4 @@
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
 git clone https://github.com/Zxilly/UA2F.git package/UA2F #UA2F模块
 git clone https://github.com/CHN-beta/rkp-ipid.git package/rkp-ipid #RKP-IPID模块
-git clone https://github.com/lucikap/Brukamen.git package/Brukamen #UA2F界面模块
+git clone https://github.com/lucikap/luci-app-brukamen.git package/Brukamen #UA2F界面模块
